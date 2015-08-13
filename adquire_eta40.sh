@@ -50,9 +50,17 @@ fi
 #
 # cria diretorio dos produtos do dia
 #
+# verifica se existe diretorio SAIDA. se não cria.
+#
+if [ ! -f ./SAIDAS ] ; then 
+mkdir ./SAIDAS
+fi  
+# entra no direotiro SAIDA e depois diretorio da data do dia
+# onde tudo aocntece. 
 cd SAIDAS
 mkdir $data$hora
 cd $data$hora
+
 #
 # Adquire os dados no site do CPTEC. 
 # Atençao:  
