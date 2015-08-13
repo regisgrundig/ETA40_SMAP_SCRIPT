@@ -1,0 +1,1 @@
+PROJCS["Custom",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS 84",6378137,298.2572236]],PRIMEM["Greenwich",0],UNIT["Degree",0.0174532925199433]],PROJECTION["Mercator_1SP"],PARAMETER["False_Easting",0],PARAMETER["False_Northing",0],PARAMETER["Latitude_Of_Origin",40],PARAMETER["Central_Meridian",0],UNIT["Meter",1]]

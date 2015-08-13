@@ -1,0 +1,19 @@
+Golden Software Cartographic Reference Information : Version 1.10
+Projection Name : Mercator
+Projection Scale : 1
+Projection False Easting (meters) : 0
+Projection False Northing (meters) : 0
+Projection Lat0 (degrees) : 40
+Projection Lon0 (degrees) : 0
+Projection Ellipsoid Type : WGS 84
+Projection Ellipsoid Radius (meters) : 6378137
+Projection Ellipsoid Flattening : 0.00335281066474748
+Datum Name : World Geodetic System 1984
+Datum Method : Molodensky
+Datum Ellipsoid Type : WGS 84
+Datum Prime Meridian Shift (degrees) : 0
+Datum X-Shift in meters from WGS84 : 0
+Datum Y-Shift in meters from WGS84 : 0
+Datum Z-Shift in meters from WGS84 : 0
+Datum Ellipsoid Radius (meters) : 6378137
+Datum Ellipsoid Flattening : 0.00335281066474748
